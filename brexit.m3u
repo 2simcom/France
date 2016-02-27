@@ -1,163 +1,473 @@
-﻿#EXTM3U
+#EXTM3U
+
+#EXTINF:-1, [COLOR magenta]-----FRANCE-------[/COLOR]
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1192.m3u8
+
+
+#EXTINF:-1,TF1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/207.m3u8
+#EXTINF:-1,FRANCE 2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/208.m3u8
+#EXTINF:-1,FRANCE 3
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/209.m3u8
+#EXTINF:-1,FRANCE 4
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/820.m3u8
+#EXTINF:-1,FRANCE 5
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/210.m3u8
+#EXTINF:-1,M6
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/216.m3u8
+#EXTINF:-1,ARTE
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/866.m3u8
+#EXTINF:-1,CANAL+HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/201.m3u8
+#EXTINF:-1,CANAL+CINEMAHD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/202.m3u8
+#EXTINF:-1,CANAL+FAMILYHD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/204.m3u8
+#EXTINF:-1,CANAL+DECALEHD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/203.m3u8
+#EXTINF:-1,CANAL+SERIESHD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/868.m3u8
+#EXTINF:-1,CINE+FRISSONHD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/877.m3u8
+#EXTINF:-1,CINE+PREMIERHD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/878.m3u8
+#EXTINF:-1,BEINSPORTS1HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/199.m3u8
+#EXTINF:-1,BEINSPORTS2HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/200.m3u8
+#EXTINF:-1,BEINSPORTS3HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/594.m3u8
+
+#EXTINF:-1,CANAL+ SPORT HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/205.m3u8
+#EXTINF:-1,MACHAINESPORT MCS
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/846.m3u8
+#EXTINF:-1,FOOT+
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/883.m3u8
+#EXTINF:-1,SPORT+
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/167.m3u8
+#EXTINF:-1,SPORTS+
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/723.m3u8
+#EXTINF:-1,GOLF+
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/112.m3u8
+#EXTINF:-1,PLANETE+_THALASSA_HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/67.m3u8
+#EXTINF:-1,NATIONAL_GEO_HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/239.m3u8
+#EXTINF:-1,NATIONAL_GEO_WILD_HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/217.m3u8
+#EXTINF:-1,USHUAIA_TV_HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/223.m3u8
+#EXTINF:-1,DISCOVERY_SHOWCASE_HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/80.m3u8
+#EXTINF:-1,DISCOVERY_SCIENCES
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/76.m3u8
+#EXTINF:-1,VOYAGE_HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/84.m3u8
+#EXTINF:-1,ANIMAUX_HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/865.m3u8
+#EXTINF:-1,CHASSE_ET_PECHE
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/860.m3u8
+#EXTINF:-1,SCIENCES_VIE_TV
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1220.m3u8
+#EXTINF:-1,RMC_DECOUVERTE
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/83.m3u8
 
 
 
-#EXTINF:-1,[COLOR cyan]-----FRANCE------[/COLOR]          
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/296.m3u8
+#EXTINF:-1,[COLOR yellow]-----GERMAN-----[/COLOR]
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1348.m3u8
 
+#EXTINF:-1,ARD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1004.m3u8
+#EXTINF:-1,ZDF
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1001.m3u8
+#EXTINF:-1,13THSTREET
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/991.m3u8
+#EXTINF:-1,AE
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1005.m3u8
+#EXTINF:-1,KABEL_EINS
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/734.m3u8
+#EXTINF:-1,3SAT
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1006.m3u8
+#EXTINF:-1,ORF2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/748.m3u8
+#EXTINF:-1,ORFEINS
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/747.m3u8
+#EXTINF:-1,ARTE
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1026.m3u8
+#EXTINF:-1,WDR
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/934.m3u8
+#EXTINF:-1,SWR
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1243.m3u8
+#EXTINF:-1,VOX
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1033.m3u8
+#EXTINF:-1,PRO7
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/750.m3u8
+#EXTINF:-1,PRO7MAX
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/751.m3u8
+#EXTINF:-1,EURONEWS
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1003.m3u8
+#EXTINF:-1,SAT1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/753.m3u8
+#EXTINF:-1,SAT1GOLD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/754.m3u8
+#EXTINF:-1,SRFINFO
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/762.m3u8
+#EXTINF:-1,ZDFINFO
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/47.m3u8
+#EXTINF:-1,SKYBUNDESLIGA1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1023.m3u8
+#EXTINF:-1,SKYCHAMPIONS
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/758.m3u8
+#EXTINF:-1,EUROSPORT
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/728.m3u8
+#EXTINF:-1,SPORT1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/761.m3u8
+#EXTINF:-1,SKYSPORT1HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/981.m3u8
+#EXTINF:-1,SKYSPORT2HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/980.m3u8
 
-#EXTINF:-1,Fr - TF1
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/296.m3u8
-#EXTINF:-1,Fr - M6
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/295.m3u8
-#EXTINF:-1,Fr - France 2
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/293.m3u8
-#EXTINF:-1,Fr - France 3
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/292.m3u8
-#EXTINF:-1,Fr - France 4
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/291.m3u8
-#EXTINF:-1,Fr - France 5
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/290.m3u8
-#EXTINF:-1,Fr - France O
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/289.m3u8
-#EXTINF:-1,Fr - Arte
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/288.m3u8
-#EXTINF:-1,Fr - Serie Club
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/287.m3u8
-#EXTINF:-1,Fr - Teva
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/286.m3u8
-#EXTINF:-1,Fr - Ushuaia
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/248.m3u8
-#EXTINF:-1,Fr - Paris Premiere
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/285.m3u8
-#EXTINF:-1,Fr - Comedie+
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/282.m3u8
-#EXTINF:-1,Fr - Syfy
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/284.m3u8
-#EXTINF:-1,Fr - 13eme Rue
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/283.m3u8
-#EXTINF:-1,Fr - E! Entertainment
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/280.m3u8
-#EXTINF:-1,Fr - TV5
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/1083.m3u8
-#EXTINF:-1,Fr - RTS La Une HD
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/1081.m3u8
-#EXTINF:-1,Fr - RTS La Deux HD
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/1082.m3u8
-#EXTINF:-1,Fr - NT1
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/1080.m3u8
-#EXTINF:-1,Fr - Mangas
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/1078.m3u8
-#EXTINF:-1,Fr - iTele
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/1079.m3u8
-#EXTINF:-1,Fr - Chasse et Peche
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/1077.m3u8
+#EXTINF:-1,[COLOR lime]-----ITALIA-----[/COLOR]
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1348.m3u8
 
-
-#EXTINF:-1,Fr - Canal+
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/279.m3u8
-#EXTINF:-1,Fr - Canal+ Serie
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/275.m3u8
-#EXTINF:-1,Fr - Canal+ Family
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/276.m3u8
-#EXTINF:-1,Fr - Canal+ Decale
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/278.m3u8
-#EXTINF:-1,Fr - Canal+ Cinema
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/277.m3u8
-#EXTINF:-1,Fr - Cine+ Premier
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/274.m3u8
-#EXTINF:-1,Fr - Cine+ Frisson
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/272.m3u8
-#EXTINF:-1,Fr - Cine+ Famiz
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/271.m3u8
-#EXTINF:-1,Fr - Cine+ Emotion
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/273.m3u8
-#EXTINF:-1,Fr - Gulli
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/269.m3u8
-#EXTINF:-1,Fr - Cine+ Classic
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/270.m3u8
-#EXTINF:-1,Fr - TCM
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/1085.m3u8
-#EXTINF:-1,Fr - Action
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/268.m3u8
-
-
-#EXTINF:-1,Fr - Canal+ Sport
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/262.m3u8
-
-#EXTINF:-1,Fr - Infosport
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/260.m3u8
-#EXTINF:-1,Fr - Eurosport
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/258.m3u8
-
-#EXTINF:-1,Fr - Eurosport 2
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/257.m3u8
-#EXTINF:-1,Fr - Bein Sport 1
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/265.m3u8
-#EXTINF:-1,Fr - Bein Sport 2
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/264.m3u8
-#EXTINF:-1,Fr - Bein Sport 3
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/263.m3u8
-
-#EXTINF:-1,Fr - Bein Sport Max 4
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/184.m3u8
-#EXTINF:-1,Fr - Bein Sport Max 5
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/185.m3u8
-#EXTINF:-1,Fr - Bein Sport Max 6
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/651.m3u8
-#EXTINF:-1,Fr - Bein Sport Max 7
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/652.m3u8
-#EXTINF:-1,Fr - Bein Sport Max 8
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/653.m3u8
-
-
-#EXTINF:-1,Fr - Encyclo
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/246.m3u8
-#EXTINF:-1,Fr - Ma Chaine Sport
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/256.m3u8
-#EXTINF:-1,Fr - Planete+ CI
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/249.m3u8
-#EXTINF:-1,Fr - Planete AE
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/1084.m3u8
-#EXTINF:-1,Fr - Planete
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/250.m3u8
-#EXTINF:-1,Fr - Animaux
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/281.m3u8
-#EXTINF:-1,Fr - Nat Geo
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/254.m3u8
-#EXTINF:-1,Fr - Nat Geo Wild
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/253.m3u8
-#EXTINF:-1,Fr - Discovery
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/252.m3u8
-#EXTINF:-1,Fr - Discovery Science
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/251.m3u8
-#EXTINF:-1,Fr - Histoire
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/247.m3u8
-#EXTINF:-1,Fr - Disney
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/245.m3u8
-#EXTINF:-1,Fr - Disney Jr Fr
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/243.m3u8
-#EXTINF:-1,Fr - Disney Cinemagic
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/244.m3u8
-#EXTINF:-1,Fr - Canal J
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/237.m3u8
-#EXTINF:-1,Fr - Boomerang
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/236.m3u8
-#EXTINF:-1,Fr - Boing
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/239.m3u8
-#EXTINF:-1,Fr - Tiji
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/241.m3u8
-#EXTINF:-1,Fr - Cartoon Network
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/238.m3u8
-#EXTINF:-1,Fr -Teletoon+
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/242.m3u8
-#EXTINF:-1,Fr - Piwi+
-http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/240.m3u8
+#EXTINF:-1,IT_RAI_SPORT_1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/277.m3u8
+#EXTINF:-1,IT_RAI_5
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1292.m3u8
+#EXTINF:-1,IT_RAI_3_HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/276.m3u8
+#EXTINF:-1,IT_RAI_2_HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/275.m3u8
+#EXTINF:-1,IT_RAI_1_HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/274.m3u8
 
 
 
+#EXTINF:-1, -----NL Channels-----
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1192.m3u8
+
+#EXTINF:-1,NPO1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/833.m3u8
+#EXTINF:-1,NPO2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/735.m3u8
+#EXTINF:-1,NPO3
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/744.m3u8
+#EXTINF:-1,RTL4
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/505.m3u8
+#EXTINF:-1,RTL5
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/506.m3u8
+#EXTINF:-1,RTL7
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/509.m3u8
+#EXTINF:-1,RTL8
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/593.m3u8
+#EXTINF:-1,HBO1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/838.m3u8
+#EXTINF:-1,HBO2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/835.m3u8
+#EXTINF:-1,HBO3
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/834.m3u8
+#EXTINF:-1,NET5
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/767.m3u8
+#EXTINF:-1,SBS6
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/815.m3u8
+#EXTINF:-1,SBS9
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/781.m3u8
+#EXTINF:-1,FILM1PREMIERHD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/821.m3u8
+#EXTINF:-1,FILM1SUNDANCE
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/818.m3u8
+#EXTINF:-1,FILM1ACTION
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/825.m3u8
+#EXTINF:-1,FILM1COMEDYKIDS
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/822.m3u8
+#EXTINF:-1,FOXSPORTS1HD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/829.m3u8
+#EXTINF:-1,FOXSPORTS 2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/823.m3u8
+#EXTINF:-1,FOXSPORTS 3
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/832.m3u8
+#EXTINF:-1,SPORT1 SELECT
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/831.m3u8
+#EXTINF:-1,SPORT1 VOETBAL
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/828.m3u8
+#EXTINF:-1,SPORT1 GOLF
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/830.m3u8
+#EXTINF:-1,DISCOVERY
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1310.m3u8
+#EXTINF:-1,BOOMERANG
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1309.m3u8
+#EXTINF:-1,VERONICADISNEYXD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1291.m3u8
+
+#EXTINF:-1, [COLOR lime]-----PT Canais-----[/COLOR]
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1192.m3u8
 
 
+#EXTINF:-1,RTP1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1119.m3u8
+#EXTINF:-1,RTP2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1120.m3u8
+#EXTINF:-1,SIC
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1121.m3u8
+#EXTINF:-1,TVI
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1125.m3u8
+#EXTINF:-1,SICNOTICIAS
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1123.m3u8
+#EXTINF:-1,TVI24
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/808.m3u8
+#EXTINF:-1,RTP INFORMACAO
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1131.m3u8
+#EXTINF:-1,CMTV
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/498.m3u8
+#EXTINF:-1,TVIFICCAO
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1126.m3u8
+#EXTINF:-1,+TVI
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1122.m3u8
+#EXTINF:-1,PORTOCANAL
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1130.m3u8
+#EXTINF:-1,VH1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/499.m3u8
+#EXTINF:-1,SPORTTV 1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/501.m3u8
+#EXTINF:-1,SPORTTV 2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/500.m3u8
+#EXTINF:-1,SPORTTV 3
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1135.m3u8
+#EXTINF:-1,SPORTTV 4
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1136.m3u8
+#EXTINF:-1,SPORTTV5
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1137.m3u8
+#EXTINF:-1,BTV1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/807.m3u8
+#EXTINF:-1,BTV2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/806.m3u8
+#EXTINF:-1,BENFICA TV1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1421.m3u8
+#EXTINF:-1,BENFICA TV2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1418.m3u8
+#EXTINF:-1,SPORTING TV
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1141.m3u8
+#EXTINF:-1,A BOLA TV
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1404.m3u8
+#EXTINF:-1,EUROSPORT
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1413.m3u8
+#EXTINF:-1,CINEMUNDO
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/507.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1144.m3u8
+#EXTINF:-1,TVCINE1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1145.m3u8
+#EXTINF:-1,TVCINE2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1146.m3u8
+#EXTINF:-1,TVCINE3
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/886.m3u8
+#EXTINF:-1,TVCINE4
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1147.m3u8
+#EXTINF:-1,TVSERIES
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1152.m3u8
+#EXTINF:-1,FOX
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1149.m3u8
+#EXTINF:-1,FOXLIFE
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1150.m3u8
+#EXTINF:-1,FOXCRIME
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1151.m3u8
+#EXTINF:-1,FOXMOVIES
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1148.m3u8
+#EXTINF:-1,AXN
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1812.m3u8
+#EXTINF:-1,AXNBLACK
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1156.m3u8
+#EXTINF:-1,AXNWHE
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1155.m3u8
+#EXTINF:-1,VEVO1
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/424.m3u8
+#EXTINF:-1,VEVO3
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1175.m3u8
+#EXTINF:-1,VEVO2
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1174.m3u8
+#EXTINF:-1,MTVDANCE
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/805.m3u8
+#EXTINF:-1,KISSTV
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/809.m3u8
+#EXTINF:-1,MOTORSTV
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1193.m3u8
+#EXTINF:-1,DISNEYCHANNEL
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1162.m3u8
+#EXTINF:-1,DISNEYJUNIOR
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1213.m3u8
+#EXTINF:-1,CANALPANDA
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1165.m3u8
+#EXTINF:-1,BIGGS
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1166.m3u8
+#EXTINF:-1,SICK
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1164.m3u8
+#EXTINF:-1,CARTOONNETWORK
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1161.m3u8
+#EXTINF:-1,SICRADICAL
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1159.m3u8
+#EXTINF:-1,CANALHISTORIA
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1183.m3u8
+#EXTINF:-1,NATIONALGEOGRAPHIC
+http://www.t12v.com:8000/live/ujEmDkSx0M/4GCvfw88im/1184.m3u8
 
-#EXTINF:-1,Pt - Sport TV 1 PT
+#EXTINF:-1, [COLOR cyan]----UNITED KINGDOM---[/COLOR]
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/1562.m3u8
+
+#EXTINF:-1,BBC1
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/1.m3u8
+#EXTINF:-1,BBC2
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/2.m3u8
+#EXTINF:-1,BBC3/CBBC
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/9.m3u8
+#EXTINF:-1,BBC4/CBEEBIES
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/10.m3u8
+#EXTINF:-1,ITV1
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/3.m3u8
+
+
+#EXTINF:-1,ITV2
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/6.m3u8
+#EXTINF:-1,ITV3
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/7.m3u8
+#EXTINF:-1,ITV4
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/8.m3u8
+#EXTINF:-1,Channel 4
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/4.m3u8
+#EXTINF:-1,Five
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/5.m3u8
+#EXTINF:-1,Sky1
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/26.m3u8
+#EXTINF:-1,Sky Atlantic
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/29.m3u8
+#EXTINF:-1,Sky Living
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/28.m3u8
+#EXTINF:-1,Sky Arts 1
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/45.m3u8
+#EXTINF:-1,Gold
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/31.m3u8
+#EXTINF:-1,More4
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/44.m3u8
+#EXTINF:-1,Quest
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/48.m3u8
+
+#EXTINF:-1,RTE 1
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/38.m3u8
+#EXTINF:-1,RTE 2
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/39.m3u8
+#EXTINF:-1,TV3
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/40.m3u8
+#EXTINF:-1,TG4
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/41.m3u8
+#EXTINF:-1,STV
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/34.m3u8
+
+
+#EXTINF:-1,Sky Sports 1 HD
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/138.m3u8
+#EXTINF:-1,Sky Sports 1
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/11.m3u8
+#EXTINF:-1,Sky Sports 2 HD
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/139.m3u8
+#EXTINF:-1,Sky Sports 2
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/12.m3u8
+#EXTINF:-1,Sky Sports 3 HD
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/140.m3u8
+#EXTINF:-1,Sky Sports 3
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/13.m3u8
+#EXTINF:-1,Sky Sports 4 HD
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/141.m3u8
+#EXTINF:-1,Sky Sports 4
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/14.m3u8
+#EXTINF:-1,Sky Sports 5 HD
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/142.m3u8
+#EXTINF:-1,Sky Sports 5
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/15.m3u8
+#EXTINF:-1,Sky Sports News HD
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/143.m3u8
+#EXTINF:-1,Sky Sports News
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/16.m3u8
+#EXTINF:-1,Sky Sports F1 HD
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/144.m3u8
+#EXTINF:-1,Sky Sports F1
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/17.m3u8
+#EXTINF:-1,BT Sport 1
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/20.m3u8
+#EXTINF:-1,BT Sport 2
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/21.m3u8
+#EXTINF:-1,BT Sport Europe HD
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/1562.m3u8
+#EXTINF:-1,Backup - BT Sport 2
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/781.m3u8
+#EXTINF:-1,Backup - BT Sport 1
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/780.m3u8
+#EXTINF:-1,ESPN
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/22.m3u8
+#EXTINF:-1,ESPN HD
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/147.m3u8
+#EXTINF:-1,Setanta Ireland
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/18.m3u8
+#EXTINF:-1,Setanta Sports 1
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/19.m3u8
+#EXTINF:-1,Racing UK
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/23.m3u8
+#EXTINF:-1,Motors TV
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/106.m3u8
+#EXTINF:-1,Eurosport
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/79.m3u8
+#EXTINF:-1,Eurosport 2
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/80.m3u8
+#EXTINF:-1,Box Nation
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/25.m3u8
+#EXTINF:-1,At the Races
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/24.m3u8
+#EXTINF:-1,Sky News
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/54.m3u8
+#EXTINF:-1,BBC News
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/55.m3u8
+#EXTINF:-1,CNN
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/58.m3u8
+#EXTINF:-1,CNBC
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/57.m3u8
+#EXTINF:-1,Bloomberg
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/56.m3u8
+
+#EXTINF:-1,Sport - TSN 1 CA
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/936.m3u8
+#EXTINF:-1,Sport - TSN 2 CA
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/937.m3u8
+#EXTINF:-1,Sport - TSN 3 CA
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/938.m3u8
+#EXTINF:-1,Sport - TSN 4 CA
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/939.m3u8
+#EXTINF:-1,Sport - TSN 5 CA
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/940.m3u8
+
+#EXTINF:-1,Sport - Sport TV 1 PT
 http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/944.m3u8
+
+#EXTINF:-1,Sport - Canal+ Liga 2
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/949.m3u8
+#EXTINF:-1,Sport - Canal+ Deportes ES
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/950.m3u8
+#EXTINF:-1,Sport - Canal+ La Liga ES
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/951.m3u8
+#EXTINF:-1,Sport - Canal+ Liga de Campeones ES
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/952.m3u8
+
+#EXTINF:-1,CTH Stadium 1
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/158.m3u8
+#EXTINF:-1,CTH Stadium 2
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/159.m3u8
+#EXTINF:-1,CTH Stadium 3
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/160.m3u8
+#EXTINF:-1,CTH Stadium 4
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/161.m3u8
+#EXTINF:-1,CTH Stadium 5
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/162.m3u8
+#EXTINF:-1,CTH Stadium 6
+http://31.220.40.87:8000/live/jose1month/4L5xb0uxky/163.m3u8
+
+
